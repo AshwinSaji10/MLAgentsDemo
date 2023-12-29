@@ -1,5 +1,5 @@
 # MLAgentsDemo
-Trained an agent to move towards it's goal using deep reinforcement learning with ml-agents toolkit and pytorch in Unity.
+An agent is trained to move towards it's goal using deep reinforcement learning with ml-agents toolkit and pytorch in Unity.
 
 Final result:
 ![Screenshot (51)](https://github.com/AshwinSaji10/MLAgentsDemo/assets/118591685/cf466184-c805-49ab-b0db-823941a2ce65)
